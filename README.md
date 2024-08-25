@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lumi</h1>
 <h3 align="center">A bachelor's student from Finland</h3>
 
-![ponpon](ponpon.gif)
+<p align="center">
+  <img src="ponpon.gif" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumikoh&label=Profile%20views&color=0e75b6&style=flat" alt="lumikoh" /> </p>
 
