@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lumi</h1>
-<h3 align="center">A bachelor's student from Finland</h3>
+<h1 align="center">Hi 👋, I'm Lumi!</h1>
+<h3 align="center">A bachelor's student from Finland!</h3>
 
 <p align="center">
   <img src="ponpon.gif" />
