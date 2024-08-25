@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumikoh&label=Profile%20views&color=0e75b6&style=flat" alt="lumikoh" /> </p>
 
-[ponpon](ponpon.gif)
+![ponpon](ponpon.gif)
 
 - 🌱 I’m currently learning **machine learning, testing, GraphQL**
 </p>
